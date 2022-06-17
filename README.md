@@ -1,6 +1,6 @@
 # Homography Estimation
 
-- homography.ipython
+- homography.ipnb
     - estimating homography
     - solve homography matrix
     - map image to the target surface
