@@ -4,7 +4,7 @@
     - estimating homography
     - solve homography matrix
     - map image to the target surface
-    - 
+    
 Original imageput        |   Result
 :-------------------------:|:-------------------------:
 ![room](https://github.com/zahrasa/Perspective_Transformation/blob/master/input/room.jpg)  |  ![result](https://github.com/zahrasa/Perspective_Transformation/blob/master/input/result.jpg)
