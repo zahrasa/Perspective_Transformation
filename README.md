@@ -6,14 +6,13 @@
     - map image to the target surface
 InOriginal imageput        |   Result
 :-------------------------:|:-------------------------:
-![room]([https://github.com/zahrasa/homography-cccc/blob/main/img/room.jpg](https://github.com/zahrasa/Perspective_Transformation/blob/master/input/room.jpg))  |  ![result]([https://github.com/zahrasa/homography-cccc/blob/main/img/result.jpg](https://github.com/zahrasa/Perspective_Transformation/blob/master/input/result.jpg))
+![room](https://github.com/zahrasa/Perspective_Transformation/blob/master/input/room.jpg)  |  ![result](https://github.com/zahrasa/Perspective_Transformation/blob/master/input/result.jpg)
 
 
-    - qrcode.py
+- qrcode.py
     - unwarp qrcode from screen
     - using Backward Warping
 
 Original image             |   Result
 :-------------------------:|:-------------------------:
-![img](https://raw.githubusercontent.com/w181496/homography/master/input/screen.jpg)  |  ![result](https://github.com/zahrasa/homography-cccc/blob/main/img/result.jpg)
-
+![input](https://raw.githubusercontent.com/w181496/homography/master/input/screen.jpg)  |  ![result](https://github.com/zahrasa/Perspective_Transformation/blob/master/input/recover.png)
