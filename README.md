@@ -1,12 +1,12 @@
 # Homography Estimation
 
-- homography.ipnb
+- homography.ipynb
     - estimating homography
     - solve homography matrix
     - map image to the target surface
 InOriginal imageput        |   Result
 :-------------------------:|:-------------------------:
-![room](https://github.com/zahrasa/homography-cccc/blob/main/img/room.jpg)  |  ![result](https://github.com/zahrasa/homography-cccc/blob/main/img/result.jpg)
+![room]([https://github.com/zahrasa/homography-cccc/blob/main/img/room.jpg](https://github.com/zahrasa/Perspective_Transformation/blob/master/input/room.jpg))  |  ![result]([https://github.com/zahrasa/homography-cccc/blob/main/img/result.jpg](https://github.com/zahrasa/Perspective_Transformation/blob/master/input/result.jpg))
 
 
     - qrcode.py
