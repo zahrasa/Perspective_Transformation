@@ -1,18 +1,19 @@
 # Homography Estimation
 
-- homography.py
+- homography.ipython
     - estimating homography
     - solve homography matrix
-    - map five images to the target surface
-    - Original image
-        - ![img](https://raw.githubusercontent.com/w181496/homography/master/input/times_square.jpg)
-    - Result
-        - ![img](https://github.com/w181496/homography/blob/master/homo.png)
+    - map image to the target surface
+InOriginal imageput        |   Result
+:-------------------------:|:-------------------------:
+![room](https://github.com/zahrasa/homography-cccc/blob/main/img/room.jpg)  |  ![result](https://github.com/zahrasa/homography-cccc/blob/main/img/result.jpg)
 
-- qrcode.py
+
+    - qrcode.py
     - unwarp qrcode from screen
     - using Backward Warping
-    - Original image
-        - ![img](https://raw.githubusercontent.com/w181496/homography/master/input/screen.jpg)
-    - Result    
-        - ![img](https://github.com/w181496/homography/blob/master/recover.png)
+
+Original image             |   Result
+:-------------------------:|:-------------------------:
+![img](https://raw.githubusercontent.com/w181496/homography/master/input/screen.jpg)  |  ![result](https://github.com/zahrasa/homography-cccc/blob/main/img/result.jpg)
+
